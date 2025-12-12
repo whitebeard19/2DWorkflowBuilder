@@ -1,0 +1,34 @@
+# Node modules
+node_modules/
+
+# Production build
+dist/
+build/
+
+# Parcel cache
+.parcel-cache/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+logs/
+*.log
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Local temporary files
+*.local
+*.tmp
+*.swp
+*.swo
